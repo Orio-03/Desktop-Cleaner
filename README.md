@@ -23,7 +23,7 @@ A Python script designed to automatically sort and organize files from the "Down
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Th30utcast/Desktop-Cleaner.git
+   git clone https://github.com/Orio-03/Desktop-Cleaner.git
    cd Desktop-Cleaner
    ```
 
